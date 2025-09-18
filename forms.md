@@ -18,3 +18,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSexEyUJqr0slkhqeEjxL-9CyEv_Db2FhZpzQ8Xl
 
 Outras coisas a anotar
 - CIP -> CÂMARA INTERBANCÁRIA DE PAGAMENTO
+
+Dicas:
+- Coloque esses excels (filas/tarefas, emails, codigos, etc.) no email SISTEMAS BRADESCO e no Microsoft Teams
