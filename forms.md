@@ -1,5 +1,7 @@
 TODO
 - Fazer uma lista com todos os 183 artigos da beedoo, de uma forma que não se repita!
+- E tambem dos 48 que citam a palavra "tarefa", e dos 33 que citam a a palavra "fila".
+
 - Para isso, use o objeto Set do javascript
 - Isso deve servir para ser mais facil de gerenciar os locais onde estao citados as tarefas que precisam ser abertas.
 
