@@ -5,6 +5,10 @@ TODO
 - Para isso, use o objeto Set do javascript
 - Isso deve servir para ser mais facil de gerenciar os locais onde estao citados as tarefas que precisam ser abertas.
 
+- Dica: pegue os pdfs/xmls/ppts da wiki do beedoo, indo em "kebab mais" e colocando naquele canal criado.
+
+- Faça o mais rápido que pude rpara conseguir colocar todas as informações e adicionar no canal o Thiago
+
 https://github.com/Philliaezer/operation/tree/main base64.html editor.html youtube.html TABELA VENDORS.xlsx https://cdn.jsdelivr.net/gh/philliaezer/teleferic@main
 
 https://docs.google.com/forms/d/e/1FAIpQLScc1zG8NAOaa9-18gliFhE8muj9gdz76mXnSN4UHCqgSskhEA/viewform
