@@ -342,3 +342,16 @@ Não é permitido renegociar contas ajuizadas, consulte a caixa cobranca.cartoes
 Caixa de Envio: 4510.acordos@bradesco.com.br
  sac.cobranca@corpr.bradesco.com.br.
 
+
+
+E-mail da área: Caixa genérica: scrbacencartoes@bradesco.com.br  
+
+ 
+
+Atenção: Em casos de priorização acionar o gestor da área conforme manual de áreas  
+
+o ADALBERTO GUILHERME DOS ANHOS (adalberto.anjos@bradesco.com.br) 
+
+o e-mail com cópia para: cada gestor avaliar para seu portfólio 
+
+ 
