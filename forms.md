@@ -1,3 +1,10 @@
+TODO
+- Fazer uma lista com todos os 183 artigos da beedoo, de uma forma que não se repita!
+- Para isso, use o objeto Set do javascript
+- Isso deve servir para ser mais facil de gerenciar os locais onde estao citados as tarefas que precisam ser abertas.
+
+https://github.com/Philliaezer/operation/tree/main base64.html editor.html youtube.html TABELA VENDORS.xlsx https://cdn.jsdelivr.net/gh/philliaezer/teleferic@main
+
 https://docs.google.com/forms/d/e/1FAIpQLScc1zG8NAOaa9-18gliFhE8muj9gdz76mXnSN4UHCqgSskhEA/viewform
 
 https://forms.gle/36p6ssU2mhdYEDwKA
