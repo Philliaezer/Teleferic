@@ -9,6 +9,40 @@ TODO
 
 - Faça o mais rápido que pude rpara conseguir colocar todas as informações e adicionar no canal o Thiago
 
+- BMs:
+
+https://tpbradesco.beedoo.io/wiki/469378/anuidade
+
+https://tpbradesco.beedoo.io/wiki/467080/fraude
+
+https://tpbradesco.beedoo.io/wiki/469637/estorno-de-encargos-juros-multa-e-iof
+
+https://tpbradesco.beedoo.io/wiki/470793/antecipacao-de-compras-parceladas
+
+https://tpbradesco.beedoo.io/wiki/467870/antecipacao-de-pagamento
+
+https://tpbradesco.beedoo.io/wiki/470211/pagamento-nao-processado
+
+https://tpbradesco.beedoo.io/wiki/476562/seguros-cartao-de-credito
+
+https://tpbradesco.beedoo.io/wiki/470615/alteracao-de-vencimento
+
+https://tpbradesco.beedoo.io/wiki/471555/cancelamento-reemissao-cartao-nao-recebido
+
+https://tpbradesco.beedoo.io/wiki/477660/carteiradivida-cedida
+
+https://tpbradesco.beedoo.io/wiki/470719/devolucao-saldo-credor
+
+https://tpbradesco.beedoo.io/wiki/467355/parcelamento-de-fatura-parcelado-comum-parcelado-facil
+
+https://tpbradesco.beedoo.io/wiki/467260/rotativo-devolucao-de-pagamento
+
+https://tpbradesco.beedoo.io/wiki/470246/transferencia-de-pagamento
+
+
+
+RCs:
+
 https://github.com/Philliaezer/operation/tree/main base64.html editor.html youtube.html TABELA VENDORS.xlsx https://cdn.jsdelivr.net/gh/philliaezer/teleferic@main
 
 https://docs.google.com/forms/d/e/1FAIpQLScc1zG8NAOaa9-18gliFhE8muj9gdz76mXnSN4UHCqgSskhEA/viewform
