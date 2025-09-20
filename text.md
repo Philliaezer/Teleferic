@@ -2,6 +2,16 @@ https://github.com/Philliaezer/operation/tree/main base64.html editor.html youtu
 
 https://tpbradesco.beedoo.io/wiki/467260/rotativo-devolucao-de-pagamento
 
+https://tpbradesco.beedoo.io/wiki/465881/registro-informativo
+
+Atenção! Para 100% das tratativas, siga com o registro informativo!
+
+Para todas a situações que exija Registro informativo siga com o registro no sistema Service View em Tarefa RC000 - Informacoes Gerais  reclamacoes, conforme passo a passo abaixo:
+
+https://tpbradesco.beedoo.io/wiki/474173/reativacao-do-cartao
+
+A manutenção é realizada online e caso o sistema apresente erro é necessário abrir tarefa na fila RC042 - SOLICITAÇÃO DE REATIVAÇÃO DE CARTÃO/PF. 
+
 BM002 - SOLICITACAO DE ROTATIVO NORMAL
 
 BM003 - ANTECIPACAO DE PAGAMENTO
