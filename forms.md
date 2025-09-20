@@ -1,3 +1,281 @@
+Dica: Ordene por ordem alfabetica de beedoos
+
+
+
+rc00
+
+https://tpbradesco.beedoo.io/wiki/472305/dados-pessoais
+
+RC000 - INFORMAÇÕES GERAIS. 
+
+ RC009 – ALTERAÇÃO DE DADOS PESSOAIS informando os dados corretos 
+
+https://tpbradesco.beedoo.io/wiki/488189/fidelidade-bradesco-cartao-disney
+
+RC000 - INFORMAÇÕES GERAIS. 
+
+https://tpbradesco.beedoo.io/wiki/467080/fraude
+
+RC000 – INFORMAÇÕES GERAIS - RECLAMAÇÕES 
+
+https://tpbradesco.beedoo.io/wiki/470986/nao-recebimento-de-fatura-envio-de-fatura
+
+RC000 - Envio de SMS/Whatsapp Linha Digitável 
+
+https://tpbradesco.beedoo.io/wiki/465881/registro-informativo
+
+RC000 - INFORMAÇÕES GERAIS. 
+
+
+
+rc01
+
+https://tpbradesco.beedoo.io/wiki/467080/fraude
+
+RC016 – Contestação Despesa Nacional: Despesa Nacional; 
+
+https://tpbradesco.beedoo.io/wiki/470119/formas-de-pagamento-alteracao-de-pagamento
+
+RC012 - SOLIC ALT FORMA DE PAGAMENTO - PESSOA FISICA
+
+https://tpbradesco.beedoo.io/wiki/470615/alteracao-de-vencimento
+
+RC010 – SOLIC ALTERAÇÃO DE VENCIMENTO – PESSOA FISIC
+
+
+
+02
+
+https://tpbradesco.beedoo.io/wiki/470254/moeda-estrangeira
+
+RC028 - RECLAMACAO DA TAXA DE CONVERSAO DO DOLAR 
+
+
+
+3
+
+https://tpbradesco.beedoo.io/wiki/471555/cancelamento-reemissao-cartao-nao-recebido
+
+RC032 - RECLAMAÇÃO - REEMISSÃO DE CARTÃO – PF
+
+
+
+4
+
+https://tpbradesco.beedoo.io/wiki/474173/reativacao-do-cartao
+
+RC042 - SOLICITAÇÃO DE REATIVAÇÃO DE CARTÃO/PF.
+
+
+
+rc05
+
+https://tpbradesco.beedoo.io/wiki/467080/fraude
+
+RC056 – Contestação Despesa Internacional: Despesa Internacional. 
+
+https://tpbradesco.beedoo.io/wiki/467355/parcelamento-de-fatura-parcelado-comum-parcelado-facil
+
+RC055 ANTECIPAÇÃO TOTAL PARCELADO -RCP 
+
+
+
+7
+
+https://tpbradesco.beedoo.io/wiki/472669/programas-fidelidade-livelo
+
+RC072 - RETROACAO DE PONTOS - BACKOFFICE
+
+
+
+8
+
+https://tpbradesco.beedoo.io/wiki/477665/cartao-emergencial-exterior
+
+RC089 - SOLICITACAO CARTAO EMERGENCIAL BO EVM
+
+
+
+9
+
+https://tpbradesco.beedoo.io/wiki/468330/afiliacoes
+
+RC093 - PESQUISA DE DADOS DO ESTABELECIMENTO MANIFESTAÇÃO 
+
+https://tpbradesco.beedoo.io/wiki/466314/analise-inicial-contestacao
+
+RC093 - PESQUISA DE DADOS DO ESTABELECIMENTO MANIFESTAÇÃO 
+
+https://tpbradesco.beedoo.io/wiki/467080/fraude
+
+RC095 – Estorno de Despesa Segura – Exceção
+
+
+
+rc10
+
+https://tpbradesco.beedoo.io/wiki/470719/devolucao-saldo-credor
+
+RC101 DEVOLUCAO SALDO CREDOR PAR FACIL BO 
+
+https://tpbradesco.beedoo.io/wiki/466972/controversia
+
+RC103 - GOLPE INTERNET 
+
+
+
+11
+
+https://tpbradesco.beedoo.io/wiki/470119/formas-de-pagamento-alteracao-de-pagamento
+
+RC110- SOLICITACAO DE ANTECIPACAO DE PAGAMENTO - PF  
+
+https://tpbradesco.beedoo.io/wiki/481449/portabilidade-de-dividas-documento-descritivo-de-credito-ddc
+
+RC118 - DDC – PORTABILIDADE ROTATIVO - PARCELAMENTO 
+
+
+
+12
+
+https://tpbradesco.beedoo.io/wiki/476562/seguros-cartao-de-credito
+
+RC122 - RECLAMACAO CANC SEGURO
+
+RC129 – RECLAMAÇÃO SEGURO (SINISTRO)
+
+
+
+13
+
+https://tpbradesco.beedoo.io/wiki/474279/troca-de-cartao
+
+RC137 - UPGRADE DE CARTAO 
+
+
+
+15
+
+https://tpbradesco.beedoo.io/wiki/466972/controversia
+
+RC157 – CONTEST DESPESA NACIONAL – INTERC DE CONTROVERSIA
+
+RC159 – CONTEST DE DESPESA INTERN – INTEC DE CONTROVERSIA. 
+
+https://tpbradesco.beedoo.io/wiki/470258/pagamento-de-contas-internet-banking
+
+RC157 - CONTESTACAO DESPESA NACIONAL-INTERC CONT 
+
+
+
+
+
+16
+
+https://tpbradesco.beedoo.io/wiki/477906/renovacao-do-cartao-e-cartao-nao-renovado
+
+RC162 - CARTÃO NÃO RENOVADO SAU
+
+https://tpbradesco.beedoo.io/wiki/472730/smiles
+
+RC164– NUMERO SMILE INCORRETO
+
+RC165 - Problemas na transferência para Smiles
+
+RC166 - RECALCULO DE PONTOS SMILES. 
+
+
+
+17
+
+https://tpbradesco.beedoo.io/wiki/467258/senha
+
+RC170 – ATUALIZACAO DE NOME
+
+https://tpbradesco.beedoo.io/wiki/472305/dados-pessoais
+
+RC170 – ATUALIZACAO DE NOME
+
+https://tpbradesco.beedoo.io/wiki/470986/nao-recebimento-de-fatura-envio-de-fatura
+
+RC172 – ENVIO DE 2º VIA DE FATURA.
+
+
+
+19
+
+https://tpbradesco.beedoo.io/wiki/477711/carta-de-quitacao-anual-de-debitos
+
+RC190 - ENVIO DE EMAIL CARTA DE QUITACAO ANUAL - BO
+
+
+
+rc2
+
+https://tpbradesco.beedoo.io/wiki/466972/controversia
+
+RC214 – Controvérsias – 15,00,
+
+https://tpbradesco.beedoo.io/wiki/476562/seguros-cartao-de-credito
+
+RC219 - RECLAMAÇÃO SEGURO SINISTRO
+
+https://tpbradesco.beedoo.io/wiki/477880/infoemail
+
+https://tpbradesco.beedoo.io/wiki/467355/parcelamento-de-fatura-parcelado-comum-parcelado-facil
+
+RC223 ANTECIPAÇÃO TOTAL PARCELADO. 
+
+RC284 - PROBLEMAS NO CADASTRO INFOEMAIL 
+
+RC286 - NAO RECEBIMENTO DE FATURA INFOEMAIL 
+
+RC287 - INDISPONIBILIDADE DO SITE INFOEMAIL 
+
+RC288 - NAO VISUALIZACAO DA FATURA INFOEMAIL
+
+
+
+rc3
+
+https://tpbradesco.beedoo.io/wiki/470719/devolucao-saldo-credor
+
+RC348 - VERIFICAR CREDITO VOUCHER
+
+RC354 - CANC TELESAQUE PARC CONSIG 
+
+https://tpbradesco.beedoo.io/wiki/467223/saque
+
+
+
+rc4
+
+https://tpbradesco.beedoo.io/wiki/469182/renegociacao-de-dividas
+
+RC446 - RENEGOCIAÇÃO DE DÍVIDA INFORMATIVA 
+
+
+
+rc5
+
+https://tpbradesco.beedoo.io/wiki/467355/parcelamento-de-fatura-parcelado-comum-parcelado-facil
+
+RC525 - Parcelamento de Fatura Fácil - Aceitou 
+
+https://tpbradesco.beedoo.io/wiki/466972/controversia
+
+RC543 - 123 MILHAS - SERVICO N PRESTADO ANTES D+5 
+
+RC544 - 123 MILHAS - SERVICO N PRESTADO APÓS D+30
+
+https://tpbradesco.beedoo.io/wiki/467080/fraude
+
+RC546 - MANIFESTACOES CANAL DE EXCECAO 
+
+
+
+
+
 https://tpbradesco.beedoo.io/wiki/467260/rotativo-devolucao-de-pagamento
 
 BM002 - SOLICITACAO DE ROTATIVO NORMAL
