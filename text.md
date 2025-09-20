@@ -1,5 +1,73 @@
 https://github.com/Philliaezer/operation/tree/main base64.html editor.html youtube.html TABELA VENDORS.xlsx https://cdn.jsdelivr.net/gh/philliaezer/teleferic@main
 
+https://tpbradesco.beedoo.io/wiki/467260/rotativo-devolucao-de-pagamento
+
+BM002 - SOLICITACAO DE ROTATIVO NORMAL
+
+BM003 - ANTECIPACAO DE PAGAMENTO
+
+BM004 - ACERTO/CANCELAMENTO DE ROTATIVO
+
+BM005 – DEVOLUÇÃO DE PAGAMENTO – EXCEÇÃO
+
+https://tpbradesco.beedoo.io/wiki/470246/transferencia-de-pagamento
+
+BM006 - TRANSFERENCIA DE PAGAMENTO
+
+https://tpbradesco.beedoo.io/wiki/470793/antecipacao-de-compras-parceladas
+
+BM007 - ANTECIPACAO TOTAL PARCELADO
+
+https://tpbradesco.beedoo.io/wiki/469378/anuidade
+
+BM008 - ISENCAO TOTAL/PARCIAL TAXA DE ANUIDADE
+
+https://tpbradesco.beedoo.io/wiki/470793/antecipacao-de-compras-parceladas
+
+BM009 – REPROCESSAMENTO DE PARCELAS
+
+https://tpbradesco.beedoo.io/wiki/469637/estorno-de-encargos-juros-multa-e-iof
+
+BM010 – ESTORNO TAXAS / TARIFAS
+
+https://tpbradesco.beedoo.io/wiki/470719/devolucao-saldo-credor
+
+BM011 - TRANSFERENCIA DE SALDO CREDOR - ENTRE CARTOES
+
+BM012 - TRANSF SALDO CREDOR - CONTA CORRENTE
+
+https://tpbradesco.beedoo.io/wiki/467355/parcelamento-de-fatura-parcelado-comum-parcelado-facil
+
+BM013 - PARCELAMENTO DE FATURA
+
+https://tpbradesco.beedoo.io/wiki/476562/seguros-cartao-de-credito
+
+BM015 - SOLICITACAO DE ESTORNO DO SEGURO
+
+https://tpbradesco.beedoo.io/wiki/476562/seguros-cartao-de-credito
+
+BM020- ESTORNO DO BRADESCO DENTAL
+
+https://tpbradesco.beedoo.io/wiki/469378/anuidade
+
+BM025 - Isenção Anuidade - Func Folha de Pagamento
+
+https://tpbradesco.beedoo.io/wiki/469637/estorno-de-encargos-juros-multa-e-iof
+
+BM029 – AJUSTES DE ENCARGOS - CHEQUE ESPECIAL
+
+https://tpbradesco.beedoo.io/wiki/470211/pagamento-nao-processado
+
+BM049 – VERIFICAR BAIXA DE PAGAMENTO – PF 
+
+https://tpbradesco.beedoo.io/wiki/470615/alteracao-de-vencimento
+
+BM065 - MANIFESTACAO ALTERACAO DE VENCIMENTO EXCECAO - BACK OFFICE. 
+
+https://tpbradesco.beedoo.io/wiki/470719/devolucao-saldo-credor
+
+BM547 DEVOLUCAO SALDO CREDOR - CARTÃO ATIVO CANC SRV 
+
 Tabulator
 <!DOCTYPE html>
 <html lang="pt-BR">
