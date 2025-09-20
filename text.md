@@ -606,4 +606,44 @@ Base64
         </script>
         </body>
         </html>
-        
+
+
+        https://tpbradesco.beedoo.io/wiki/470986/nao-recebimento-de-fatura-envio-de-fatura
+
+RC000 - Envio de SMS/Whatsapp Linha Digitável 
+
+https://tpbradesco.beedoo.io/wiki/470615/alteracao-de-vencimento
+
+RC010 – SOLIC ALTERAÇÃO DE VENCIMENTO – PESSOA FISIC. 
+
+https://tpbradesco.beedoo.io/wiki/467080/fraude
+
+ - RC016 – Contestação Despesa Nacional: Despesa Nacional; 
+
+https://tpbradesco.beedoo.io/wiki/470254/moeda-estrangeira
+
+RC028 
+
+RECLAMACAO DA TAXA DE CONVERSAO DO DOLAR 
+
+https://tpbradesco.beedoo.io/wiki/471555/cancelamento-reemissao-cartao-nao-recebido
+
+RC032 - RECLAMAÇÃO - REEMISSÃO DE CARTÃO – PF
+
+ - RC056 – Contestação Despesa Internacional: Despesa Internacional. 
+
+https://tpbradesco.beedoo.io/wiki/474173/reativacao-do-cartao
+
+ RC042 - SOLICITAÇÃO DE REATIVAÇÃO DE CARTÃO/PF. 
+
+https://tpbradesco.beedoo.io/wiki/467355/parcelamento-de-fatura-parcelado-comum-parcelado-facil
+
+RC055 ANTECIPAÇÃO TOTAL PARCELADO -RCP 
+
+https://tpbradesco.beedoo.io/wiki/472669/programas-fidelidade-livelo
+
+RC072 - RETROACAO DE PONTOS - BACKOFFICE.
+
+RC095 – Estorno de Despesa Segura – Exceção
+
+RC172 – ENVIO DE 2º VIA DE FATURA
