@@ -1,3 +1,4 @@
+<!-- https://github.com/Philliaezer/operation/blob/main/info.md -->
 https://github.com/Philliaezer/operation/tree/main base64.html editor.html youtube.html TABELA VENDORS.xlsx https://cdn.jsdelivr.net/gh/philliaezer/teleferic@main
 
 https://tpbradesco.beedoo.io/wiki/467260/rotativo-devolucao-de-pagamento
