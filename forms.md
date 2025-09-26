@@ -1,3 +1,28 @@
+Tabelas (dica: fazer html)
+- Redumo de informações dos principais casos (contestação, anuidade, evolução de dívidas, etc.)
+- Prazos SLA (também coloque descrição FORA da tabela sobre como deve ser feito o contato ex: após feito contato com sucesso, podem ser feitos quantos contatos quiser/precisar)
+- Do que precisa de PID, só que não precisa contato com o cliente, do que é feito no plástico e do que é feito na consolidada 
+- Ver formulario bradesco e colocar fixado no email e teams pessoal
+
+Entulho -> colocar informações importantes de cada um dos três principais sistemas 
+
+NÃO SE ESQUECA DOS EMAILS - MAS FOQUE NOS PRINCIPAIS/DISNEY/MAIS RECENTES
+
+Estudar mais sobre limites
+
+Service view
+- conta consolidada (titular): número completo
+- conta plástico - número truncado/com asteriscos 
+SACL
+- Ir na aba """"histórico """ para ver histórico do cliente
+
+
+<!-- Using iframe -->
+    <iframe src="another_page.html" width="100%" height="400px" frameborder="0"></iframe>
+
+    
+    <!-- <embed src="another_page.html" type="text/html" width="100%" height="400px"> -->
+
 Dica: Ordene por ordem alfabetica de beedoos
 
 
