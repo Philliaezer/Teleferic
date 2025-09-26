@@ -1,5 +1,7 @@
 Perguntar para o Otavio script de atendimento voz para o cliente para colocar em aba especial Scripts/Templates da equipe Time Bradesco no Microsoft Teams
 
+Fazer markdown renderer e mandar para a operation para escrever algumas notas em formato markdown
+
 Tabelas (dica: fazer html)
 - Redumo de informações dos principais casos (contestação, anuidade, evolução de dívidas, etc.)
 - Prazos SLA (também coloque descrição FORA da tabela sobre como deve ser feito o contato ex: após feito contato com sucesso, podem ser feitos quantos contatos quiser/precisar)
