@@ -1,3 +1,5 @@
+https://github.com/Philliaezer/Teleferic/blob/main/content.md
+
 Fazer markdown renderer e mandar para a operation para escrever algumas notas em formato markdown
 
 Perguntar para o Otavio script de atendimento voz para o cliente para colocar em aba especial Scripts/Templates da equipe Time Bradesco no Microsoft Teams
