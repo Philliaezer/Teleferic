@@ -1,3 +1,11 @@
+[27/9 07:04] Anderson Duarte: Perguntas ao Otávio:
+- Como a gente não tem supervisor no momento, para quem devemos enviar o arquivo word com o número completo do cartão caso o cliente peça o PDF da planilha de evolução de dividas?
+- Livelo -> Já foi encaminhado ao gestor.
+
+Separar TPBook em "Artigos Pequenos" e "Artigos importantes"
+[27/9 07:35] Anderson Duarte: - Planilha de Áreas contém os emails das áreas a serem acionadas
+[27/9 07:36] Anderson Duarte: *artigos importantes
+
 Perguntar para o Otavio script de atendimento voz para o cliente para colocar em aba especial Scripts/Templates da equipe Time Bradesco no Microsoft Teams
 
 Fazer markdown renderer e mandar para a operation para escrever algumas notas em formato markdown
