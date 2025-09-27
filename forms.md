@@ -1,3 +1,5 @@
+https://github.com/Philliaezer/Teleferic/blob/main/content.md
+
 [27/9 07:04] Anderson Duarte: Perguntas ao Otávio:
 - Como a gente não tem supervisor no momento, para quem devemos enviar o arquivo word com o número completo do cartão caso o cliente peça o PDF da planilha de evolução de dividas?
 - Livelo -> Já foi encaminhado ao gestor.
