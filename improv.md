@@ -1,3 +1,5 @@
+https://github.com/Philliaezer/Teleferic/blob/main/htmls.md
+
 [28/9 18:24] Anderson Duarte: Ceará 18h serviço essencial
 [28/9 19:30] Anderson Duarte: Débito -> serviço essencial 
 Crédito -> serviço prioritário
